@@ -1,0 +1,374 @@
+/**/_xdc_._4bsece && _xdc_._4bsece( {
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Çaybaşı Caddesi",
+               "short_name" : "Çaybaşı Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sırakapılar Mahallesi",
+               "short_name" : "Sırakapılar Mahallesi",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Denizli Merkez",
+               "short_name" : "Denizli Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Denizli",
+               "short_name" : "Denizli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Türkiye",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20010",
+               "short_name" : "20010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sırakapılar Mahallesi, Çaybaşı Cd. No:2, 20010 Denizli Merkez/Denizli, Türkiye",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7763218,
+               "lng" : 29.0856458
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7776707802915,
+                  "lng" : 29.0869947802915
+               },
+               "southwest" : {
+                  "lat" : 37.7749728197085,
+                  "lng" : 29.0842968197085
+               }
+            }
+         },
+         "place_id" : "ChIJ7QLwi64_xxQRDBiKnHiVcjo",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Denizli",
+               "short_name" : "Denizli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kumkısık Mahallesi",
+               "short_name" : "Kumkısık Mahallesi",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Denizli Merkez",
+               "short_name" : "Denizli Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Denizli",
+               "short_name" : "Denizli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Türkiye",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Denizli, Kumkısık Mahallesi, Denizli Merkez/Denizli, Türkiye",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.8434867,
+                  "lng" : 29.1701541
+               },
+               "southwest" : {
+                  "lat" : 37.7223328,
+                  "lng" : 28.9931391
+               }
+            },
+            "location" : {
+               "lat" : 37.7830159,
+               "lng" : 29.0963328
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.8434867,
+                  "lng" : 29.1701541
+               },
+               "southwest" : {
+                  "lat" : 37.7223328,
+                  "lng" : 28.9931391
+               }
+            }
+         },
+         "place_id" : "ChIJaWo6NbE_xxQRrmgg5v5jMy4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Altıntop Mahallesi",
+               "short_name" : "Altıntop Mahallesi",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Merkezefendi",
+               "short_name" : "Merkezefendi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Denizli",
+               "short_name" : "Denizli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Türkiye",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20010",
+               "short_name" : "20010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Altıntop Mahallesi, 20010 Merkezefendi/Denizli, Türkiye",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.77639,
+                  "lng" : 29.08732
+               },
+               "southwest" : {
+                  "lat" : 37.768965,
+                  "lng" : 29.0819951
+               }
+            },
+            "location" : {
+               "lat" : 37.7735148,
+               "lng" : 29.0859913
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.77639,
+                  "lng" : 29.08732
+               },
+               "southwest" : {
+                  "lat" : 37.768965,
+                  "lng" : 29.0819951
+               }
+            }
+         },
+         "place_id" : "ChIJwVxGEKk_xxQRwmjRlBSRDjs",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "20010",
+               "short_name" : "20010",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Denizli Merkez",
+               "short_name" : "Denizli Merkez",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Merkezefendi",
+               "short_name" : "Merkezefendi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Denizli",
+               "short_name" : "Denizli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Türkiye",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "20010 Merkezefendi/Denizli, Türkiye",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.799637,
+                  "lng" : 29.09018
+               },
+               "southwest" : {
+                  "lat" : 37.762683,
+                  "lng" : 29.042432
+               }
+            },
+            "location" : {
+               "lat" : 37.7770608,
+               "lng" : 29.0750837
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.799637,
+                  "lng" : 29.09018
+               },
+               "southwest" : {
+                  "lat" : 37.762683,
+                  "lng" : 29.042432
+               }
+            }
+         },
+         "place_id" : "ChIJ6eGXgwc_xxQRr7KvGQ6ZsmY",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Merkezefendi",
+               "short_name" : "Merkezefendi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Denizli",
+               "short_name" : "Denizli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Türkiye",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Merkezefendi/Denizli, Türkiye",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.927661,
+                  "lng" : 29.134084
+               },
+               "southwest" : {
+                  "lat" : 37.6901179,
+                  "lng" : 28.905616
+               }
+            },
+            "location" : {
+               "lat" : 37.8057579,
+               "lng" : 29.0227159
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.927661,
+                  "lng" : 29.134084
+               },
+               "southwest" : {
+                  "lat" : 37.6901179,
+                  "lng" : 28.905616
+               }
+            }
+         },
+         "place_id" : "ChIJ_bGiqj9AxxQRGnFnJhKYeaw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Denizli",
+               "short_name" : "Denizli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Türkiye",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Denizli, Türkiye",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.469457,
+                  "lng" : 30.084129
+               },
+               "southwest" : {
+                  "lat" : 36.873254,
+                  "lng" : 28.574357
+               }
+            },
+            "location" : {
+               "lat" : 37.6128395,
+               "lng" : 29.2320784
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.469457,
+                  "lng" : 30.084129
+               },
+               "southwest" : {
+                  "lat" : 36.873254,
+                  "lng" : 28.574357
+               }
+            }
+         },
+         "place_id" : "ChIJyUoz1lMhxxQRPutwm0_SDq4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Türkiye",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Türkiye",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            },
+            "location" : {
+               "lat" : 38.963745,
+               "lng" : 35.243322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            }
+         },
+         "place_id" : "ChIJcSZPllwVsBQRKl9iKtTb2UA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+ )
