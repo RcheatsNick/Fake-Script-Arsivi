@@ -1,0 +1,98 @@
+#_tcs {
+	background-color: #0072C6;
+	margin:40px;
+	color:white;
+	font-family:Arial;
+	padding:9px;
+	width:300px;
+	margin: auto;
+    border: 3px solid #73AD21;
+	height:30px;
+	border:20px;
+	font-size:15px;
+	font-style: normal;
+	
+}
+
+#_tcs:hover {
+	
+	background-color: #0072C6;
+	color:white;
+	
+	
+}
+
+#_tcs:active {
+	
+	background-color: #7d858b;
+	color:white;
+	
+}
+
+#_tcs:visited {
+	
+	background-color: #0072C6;
+	color:white;
+	
+}
+
+
+
+
+#_jok {
+	
+	margin:40px;
+	border: 1px solid grey;
+	font-family:Arial;
+	padding:9px;
+	width:300px;
+	margin: auto;
+   	height:30px;
+	font-size:15px;
+	font-style: normal;
+	
+}
+
+
+
+#placeholder {
+	
+	color:black;
+	margin:40px;
+	border: 1px bold grey;
+	font-family:Arial;
+	padding:9px;
+	width:300px;
+	margin: auto;
+   	height:30px;
+	font-size:15px;
+	font-style: normal;
+	
+}
+
+#placeholder1{
+	
+	color:black;
+	margin:40px;
+	border-style:solid;
+	border: 1px bold grey;
+	font-family:Arial;
+	padding:9px;
+	width:300px;
+	margin: auto;
+   	height:30px;
+	font-size:15px;
+	font-style: normal;
+	
+}
+
+
+.hz_xh {
+	font-size:30px;
+	
+	border:8px;
+	color:black;
+	font-family:Corbel;
+	margin:10px;
+	
+}
