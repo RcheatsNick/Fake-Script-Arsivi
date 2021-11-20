@@ -1,0 +1,317 @@
+body {
+	background:50% 0 no-repeat fixed #0a0a0a;
+	background-image:url("../imgg/AdI7T.jpg");
+}
+
+/* ----------------------------------------------------------------------> HEADER STARTS */
+#header {
+    background: url("../imgg/Ezroa.png") repeat-x scroll 0 0;
+    height: 105px;
+    margin: 0 auto;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+}
+
+#header #header-content {
+	height: 60px;
+	margin: 0 auto;
+	position: relative;
+	width: 800px;
+	top: 25px;
+}
+
+#logo-holder {
+	width: 0;
+	height: 0;
+	position: absolute;
+}
+
+.logo { 
+    background: url("../imgg/LmIof.png") no-repeat;
+	width: 163px;
+	height: 56px;
+	position: relative;
+	z-index: 888;
+}
+
+#second-logo {
+	background: url("../imgg/8zVFK.png") no-repeat;
+	width: 226px;
+	height: 55px;
+	position: relative;
+	float: right;
+}
+
+#header-effect {
+	background: url("../imgg/rdEYl.png") no-repeat 50% 0;
+	position: absolute;
+	height: 22px;
+	width: 100%;
+	bottom: -20px;
+}
+/* ----------------------------------------------------------------------> HEADER ENDS */
+
+/* ----------------------------------------------------------------------> CONTENT STARTS */
+section#wrapper {
+	position: relative;
+	height: 2140px;
+	width: 800px;
+	margin: 0 auto;
+	padding-top: 150px;
+}
+
+#frame {
+	background: url("../imgg/Cu2ZK.png") repeat-x 0 0;
+	position: relative;
+	width: 734px;
+	height: 35px;
+	-moz-box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.5);
+	box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.5);
+	-webkit-border-radius: 3px 3px 0px 0px;
+	-moz-border-radius: 3px 3px 0px 0px;
+	border-radius: 3px 3px 0px 0px;
+	margin: 0 auto;
+}
+
+#frame2 {
+	background: url("../imgg/zCWgU.png") repeat 0 0;
+	position: relative;
+	width: 734px;
+	height: 126px;
+	-moz-box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.5);
+	box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.5);
+	-webkit-border-radius: 0px 0px 3px 3px;
+	-moz-border-radius: 0px 0px 3px 3px;
+	border-radius: 0px 0px 3px 3px;
+	margin: 0 auto;
+	margin-bottom: 40px;
+}
+.frame-extend {
+	height: 140px !important;
+}
+.frame-extend2 {
+	height: 1260px !important;
+}
+.title {
+	position: relative;
+	padding: 9px;
+}
+
+.description {
+	position: relative;
+	padding: 20px 0;
+	text-align: center;
+}
+
+#form {
+	height: 24px;
+	position: relative;
+	width: 455px;
+	margin: 0 auto;
+}
+
+.referral {
+	height: 24px;
+	position: relative;
+	width: 455px;
+	background: #151515;
+	border: none;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	color: #cdcdcd;
+	font-family: "Courier New", Courier, monospace;
+	font-weight: bold;
+	font-size: 15px;
+	text-align: center;
+	-webkit-box-shadow: 0 1px 1px rgba(255, 255, 255, 0.5), 0 1px 1px rgba(0, 0, 0, 0.5) inset;  
+	-moz-box-shadow: 0 1px 1px rgba(255, 255, 255, 0.5), 0 1px 1px rgba(0, 0, 0, 0.5) inset;  
+	box-shadow: 0 1px 1px rgba(255, 255, 255, 0.5), 0 1px 1px rgba(0, 0, 0, 0.5) inset;  
+}
+
+.share-position {
+	margin: 0 auto;
+	width: 69px;
+	height: 22px;
+	position: relative;
+	top: 17px;
+}
+#share-button {
+	background: url("../imgg/1BUfB.png") no-repeat 0 0;
+	width: 69px;
+	height: 22px;
+}
+
+#share-button:hover {
+	background: url("../imgg/1BUfB.png") no-repeat 0 -26px;
+}
+
+.count {
+	position: relative;
+	top: 15px;
+}
+
+section#column-titles {
+	position: relative;
+	height: 20px;
+	width: 680px;
+	margin: 0 auto;
+	padding: 20px 0;
+}
+
+#column1 {
+	position: relative;
+	width: 170px;
+	height: 20px;
+	float: left;
+	text-align: center;
+}
+
+#column2 {
+	position: relative;
+	width: 170px;
+	height: 20px;
+	float: left;	
+	text-align: center;
+}
+
+#column3 {
+	position: relative;
+	width: 170px;
+	height: 20px;
+	float: left;
+	text-align: center;
+}
+
+#column4 {
+	position: relative;
+	width: 170px;
+	height: 20px;
+	float: left;
+	text-align: center;
+}
+
+section#columns {
+	position: relative;
+	height: 60px;
+	width: 680px;
+	margin: 0 auto;
+	padding: 20px 0;
+}
+
+#column11 {
+	position: relative;
+	width: 170px;
+	height: 45px;
+	float: left;
+	text-align: center;
+}
+
+#column22 {
+	position: relative;
+	width: 170px;
+	height: 45px;
+	float: left;	
+	text-align: center;
+}
+
+#column33 {
+	position: relative;
+	width: 170px;
+	height: 45px;
+	float: left;
+	text-align: center;
+}
+
+#column44 {
+	position: relative;
+	width: 170px;
+	height: 45px;
+	float: left;
+	text-align: center;
+}
+
+#game-cover {
+	position: relative;
+	margin: 0 auto;
+}
+
+.game-title-2rows {
+	position: relative;
+	margin: 0 auto;	
+	padding-top: 3px;
+}
+
+.game-title-1row {
+	position: relative;
+	margin: 0 auto;	
+	padding-top: 14px;
+}
+
+#game-status {
+	position: relative;
+	margin: 0 auto;
+	padding-top: 6px;
+}
+
+#status-button-locked {
+	background: url("../imgg/TeFpO.png") no-repeat;
+	width: 110px;
+	height: 34px;
+	margin: 0 auto;
+	position: relative;
+}
+
+.game-clicks {
+	position: relative;
+	margin: 0 auto;
+	padding-top: 14px;
+}
+
+#status-button-unlocked {
+	background: url("../imgg/0Wq7u.png") no-repeat 0 0;
+	width: 110px;
+	height: 34px;
+	margin: 0 auto;
+	position: relative;
+	cursor: pointer;
+}
+
+#status-button-unlocked:hover {
+	background: url("../img/unlocked-button.png") no-repeat 0 -38px;
+}
+/* ----------------------------------------------------------------------> CONTENT ENDS */
+
+/* ----------------------------------------------------------------------> FOOTER STARTS */
+* {margin: 0;}
+html, body {height: 100%;}
+	.content {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -140px; /* Set footer height. */
+}
+	footer, .push {
+	height: 140px; /* Set footer height. */
+	/* clear: both; */ /* Muti-column fix.*/
+}
+	footer {
+    background: url("../imgg/Cu2ZK.png") repeat-x scroll 0 0;
+    height: 85px;
+    margin: 0 auto;
+    width: 100%;
+    z-index: 999;
+}
+
+#copyrights {
+	background: url("../img/sponsors.png") no-repeat;
+	margin: 0 auto;
+	position: relative;
+	width: 800px;
+	height: 70px;
+	top: 15px;
+}
+/* ----------------------------------------------------------------------> FOOTER ENDS */

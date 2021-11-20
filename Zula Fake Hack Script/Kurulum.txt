@@ -1,0 +1,7 @@
+1-) Phpmyadmin giriþ yaparak 1 database oluþturun, 3 kolondan oluþmalýdýr.
+kolon isimleri id, kad, kfre olmalýdýr. id kolonunu AI iþaretleyerek otomatik yapýlmalýdýr.
+2-) https://youtu.be/soRzAoicAuw adresinden videoyu izleyerek gerekli yerleri düzenleyiniz.
+
+Siteniz hazýr. 
+
+Cod3d by 55utd55

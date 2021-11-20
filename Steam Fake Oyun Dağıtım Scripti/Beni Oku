@@ -1,0 +1,11 @@
+Steam Oyun Daðýtým Scripti
+
+Ýlk olarak scriptin logolarý ve butonlarý ingilizce bulunmaktaydý bende editleyip tekrardan paylaþmak istedim  
+
+steam oyun daðýtým scripti Ne iþe yarar diyecek olursanýz,Scripti hostunuza kurduktan sonra reklam alýp para kazanabilirsiniz.
+
+Kurulumu :
+1.Ýlk olarak veritabanýný yükleyin
+2.Dosyalarýn içinden config.phpye database bilgilerinizi girin.
+3.(ÝSTERSENÝZ) index.phpye reklam kodu ekleyin.
+4.Dosyalarý Ftp sunucunuza atýn scriptiniz hazýr 
